@@ -1,0 +1,2 @@
+This project demonstrates basic Git workflow. 
+Bug fix: corrected documentation.
